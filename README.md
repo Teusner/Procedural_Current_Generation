@@ -1,5 +1,5 @@
 # Procedural Underwater Current Generation
 
-## Reuslts
+## Results
 
-![](./docs/Perlin_Nois_Stream.png)
+![](./docs/Perlin_Noise_Stream.png)
